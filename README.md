@@ -1,4 +1,4 @@
-### Hi there 👋, Göktuğ Bekir Yeşil
+### Göktuğ Bekir Yeşil,
 #### Junior Software Developer
 ![Junior Software Developer](https://i.hizliresim.com/t5vpw4y.png)
 
