@@ -1,5 +1,5 @@
-### Göktuğ Bekir Yeşil,
-#### Junior Software Developer
+## Göktuğ Bekir Yeşil,
+### Junior Software Developer
 ![Junior Software Developer](https://i.hizliresim.com/t5vpw4y.png)
 
 I'm a Student 👨‍🎓, Junior Software Developer 🚀
