@@ -8,7 +8,7 @@ I'm a Student 👨‍🎓, Junior Software Developer 🚀
 
 
 
-Skills: C# / HTML / CSS / 
+Skills: C# / HTML / CSS / JS
 
 
 
